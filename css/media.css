@@ -1,0 +1,521 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+.logo img {
+    width: 50%;
+}
+.banner {
+    background-image: none;
+    background-color: white;
+}
+.banner-title h1 {
+    margin-top: 95px;
+    margin-bottom: 84px;
+    font-size: 25px;
+
+}
+.menu ul li a {
+    padding: 0 0 !important;
+    text-align: right;
+    display: inline-block;
+}
+.kin1-title h1 {
+    font-size: 24px;
+}
+.kid1 {
+    padding-top: 35px;
+    padding-bottom: 35px;
+    background-color: white;
+}
+.kid1-title-2 h1 {
+    text-align: center;
+    font-size: 18px;
+}
+.kid1-title-2 hr {
+     margin-left: auto; 
+}
+.kid1-title-2 a img {
+    width: 39%;
+    padding-bottom: 20px;
+}
+.kid2 {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.section-4 {
+    padding-top: 35px;
+        padding-bottom: 35px;
+}
+
+.card-button {
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.section-6 {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.kin1-title {
+    margin-bottom: 15px;
+}
+.section-6-img img {
+    margin-left: 20%;
+    margin-bottom: 20px;
+}
+.section-6-cont .custom-color-1 {
+    text-align: center;
+}
+.section-6-cont h4 {
+    text-align: center;
+}
+.section-6-cont p {
+    text-align: center;
+}
+.social-icon {
+    text-align: center;
+}
+.section-6-cont a {
+    margin-left: 38%;
+}
+.section-6-cont .custom-color-2 {
+    text-align: center;
+}
+.section-6-cont .custom-color-3 {
+    text-align: center;
+}
+.section-6-cont .custom-color-4 {
+    text-align: center;
+}
+.counter-section {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.count-text {
+    font-size: 13px;
+}
+.kin1-title h1 {
+    text-align: center;
+    font-size: 18px;
+}
+.date-row img {
+    margin-left: 39%;
+    margin-top: 14px;
+    margin-bottom: 20px;
+}
+.section-5 {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.section-5-img img {
+    width: 63%;
+}
+.view-more img {
+    margin-top: 25px;
+    width: 30%;
+}
+.section-6 {
+    padding-top: 55px;
+    padding-bottom: 55px;
+    background-color: white;
+}
+.section-6-content p {
+    font-size: 11px;
+}
+.blog {
+    padding-top: 35px;
+    padding-bottom: 35px;
+    background-color: white;
+}
+.blog-img img {
+    margin-left: 10%;
+}
+.blog-content {
+    text-align: center;
+}
+.blog-content h1 {
+    margin-top: 15px;
+}
+.kin1-title .hr-margin-left {
+ margin: auto;
+}
+.section-6-img img {
+    margin-left: 20%;
+}
+.count-title {
+    background-size: contain;
+}
+.count-title-2 {
+    background-size: contain;
+}
+.count-title-3 {
+    background-size: contain;
+}
+.count-title-4 {
+    background-size: contain;
+}
+.mb-p {
+    padding-bottom: 20px;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+.blog-content hr {
+    margin-top: 13px;
+    margin-bottom: 13px;
+    width: 238px;
+    margin-left: 78px;
+}
+.top_footer {
+    background-color: white;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.for-padding {
+    padding-top: 0px;
+}
+.p-l-0 {
+    padding-right: 0;
+    padding-bottom: 10px;
+}
+.footer_logo {
+    text-align: center;
+}
+.part-1-content {
+    text-align: center;
+}
+.footer-title h1 {
+    text-align: center !important;
+}
+.footer-title hr {
+    width: 46%;
+    margin: auto;
+}
+.footer-title-2 h1 {
+    text-align: center !important; 
+    color: #56d47e;
+}
+.footer-title-2 hr {
+    border: none;
+    border-bottom: 5px dotted #56d47e;
+    width: 45%;
+    margin: auto;
+}
+.part-3-content {
+    text-align: center;
+        padding: 0 70px;
+}
+.footer-title-3 h1 {
+    text-align: center !important;
+}
+.footer-title-3 hr {
+    width: 45%;
+    margin: auto;
+}
+.footer-icon {
+    text-align: center;
+}
+.footer-menu ul li a {
+    font-size: 13px;
+}
+.copyright p {
+    text-align: center;
+}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+.header-icon {
+    /*text-align: right;*/
+}
+.banner {
+    background-image: none;
+    background-color: white;
+}
+.banner-title h1 {
+    margin-top: 95px;
+    margin-bottom: 84px;
+    font-size: 35px;
+}
+.kid1 {
+    padding-top: 34px;
+    padding-bottom: 35px;
+    background-color: white;
+}
+.kid1-title-2 h1 {
+    text-align: center;
+}
+.kid1-title-2 hr {
+    margin-left: auto;
+}
+.kid1-title-2 p {
+    text-align: center;
+}
+.discovery {
+    text-align: center;
+}
+.discovery a img {
+    padding-bottom: 23px;
+}
+.kid2 {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.section-4 {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.section-5 {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.view-more img {
+    margin-top: 40px;
+    width: 30%;
+}
+.section-6 {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.section-6-img img {
+    margin-left: 25%;
+    margin-bottom: 20px;
+}
+.kin1-title {
+    margin-bottom: 10px;
+}
+.count-text {
+    font-size: 15px;
+}
+.count-title {
+    background-size: contain;
+}
+.count-title-2 {
+    background-size: contain;
+}
+.count-title-3 {
+    background-size: contain;
+}
+.count-title-4 {
+    background-size: contain;
+}
+.blog-img {
+    text-align: center;
+}
+.kin1-title hr {
+    border: none;
+    border-bottom: 5px dashed white;
+    width: 45%;
+}
+.kin1-title h1 {
+    text-align: center;
+}
+.blog-content {
+    text-align: center;
+}
+.blog-content h1{
+    margin-top: 15px;
+}
+.kin1-title .hr-margin-left {
+ margin: auto;
+}
+.blog-content hr {
+    margin-top: 13px;
+    margin-bottom: 13px;
+    width: 238px;
+    margin-left: 137px;
+}
+.date-row img {
+    margin-left: 39%;
+    margin-top: 14px;
+    margin-bottom: 20px;
+}
+.blog {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+.blog-content p {
+    word-spacing: 1px;
+    padding: 0px 92px;
+    text-align: justify;
+}
+.top_footer {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.for-padding {
+     padding-top: 0px; 
+}
+.footer_logo {
+    text-align: center;
+}
+.part-1-content {
+    text-align: center;
+}
+.p-l-0 {
+
+}
+.insta-galary {
+    text-align: center;
+}
+.footer-title h1 {
+    text-align: center !important;
+}
+.footer-title hr {
+    border: none;
+    border-bottom: 5px dotted #ffc852;
+    width: 45%;
+    margin: auto;
+}
+.footer-title-2 h1 {
+    text-align: center !important; 
+    color: #56d47e;
+}
+.footer-title-2 hr {
+    border: none;
+    border-bottom: 5px dotted #56d47e;
+    width: 45%;
+    margin: auto;
+}
+.part-3-content {
+    text-align: center;
+}
+.footer-title-3 h1 {
+    text-align: center !important;
+}
+.footer-title-3 hr {
+    border: none;
+    border-bottom: 5px dotted #f05c5c;
+    width: 45%;
+    margin: auto;
+}
+.footer-icon {
+    text-align: center;
+}
+.copyright p {
+    text-align: center;
+}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+.header-icon {
+    /*margin-left: 572px;*/
+}
+.banner-title h1 {
+    margin-top: 171px;
+    margin-bottom: 80px;
+}
+.kid1 {
+    padding-top: 38px;
+    padding-bottom: 38px;
+}
+.kid1-img img {
+    margin-top: 28px;
+} 
+.kid1-title-2 a img {
+    width: 40%;
+}
+.kid2 {
+    padding-top: 38px;
+    padding-bottom: 38px;
+}
+.kin1-title {
+    margin-bottom: 0px;
+}
+.section-4 {
+    padding-top: 38px;
+    padding-bottom: 38px;
+}
+.card-button {
+    padding-top: 0px;
+}
+.section-5 {
+    padding-top: 38px;
+    padding-bottom: 38px;
+}
+.section-6 {
+    padding-top: 38px;
+    padding-bottom: 38px;
+}
+.counter-section {
+    padding-bottom: 38px;
+    padding-top: 38px;
+}
+.card-block h4 {
+    font-size: 15px;
+}
+.card-footer p {
+    font-size: 10px;
+    font-weight: 700;
+}
+.count-text {
+    font-size: 20px;
+}
+.count-title {
+    background-size: contain;
+}
+.count-title-2 {
+    background-size: contain;
+}
+.count-title-3 {
+    background-size: contain;
+}
+.count-title-4 {
+    background-size: contain;
+}
+.blog {
+    padding-bottom: 38px;
+    padding-top: 38px;
+}
+.date-row img {
+    width: 100%;
+}
+.blog-content h1 {
+    font-size: 20px;
+}
+.kin1-title {
+    margin-bottom: 20px;
+}
+.top_footer {
+    padding-top: 0;
+}
+.part-1 {
+    padding-bottom: 60px;
+}
+.for-padding {
+    padding-top: 20px;
+}
+.top_footer {
+    padding-top: 38px;
+    padding-bottom: 38px;
+}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.section-5 {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.card-block h4 {
+    font-weight: 600;
+    font-size: 20px;
+}
+.section-6 {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.blog {
+     padding-bottom: 0px; 
+}
+.blog-content h1 {
+    font-weight: 700;
+    font-size: 20px;
+}
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
